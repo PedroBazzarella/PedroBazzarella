@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="./src/banner.svg" alt="Welcome! Call me Bazza!" height="100" align="center">
+  <p align="center">💻 Web Developer | APIs | Database | Data Science | Web Designer 🎨</p>
+</p>
 
-<!--
-**PedroBazzarella/PedroBazzarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!NOTE]
+> I'm an enthusiastic web developer and database designer. Currently learning more about Python and data.\
+> IT Associate. Computer Science undergraduate.\
+> I develop games as a hobby and love sports.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 
+<p align="center">
+  <code><img height="30" src="./src/php.svg" alt="PHP"></code>
+  <code><img height="30" src="./src/python.svg" alt="Python"></code>
+  <code><img height="30" src="./src/js.svg" alt="JavaScript"></code>
+  <code><img height="30" src="./src/mysql.png" alt="MySQL"></code>
+  <code><img height="30" src="./src/postgre.svg" alt="PostgreSQL"></code>
+</p>
