@@ -13,7 +13,7 @@
   <code><img height="30" src="./src/php.svg" alt="PHP"></code>
   <code><img height="30" src="./src/python.svg" alt="Python"></code>
   <code><img height="30" src="./src/js.svg" alt="JavaScript"></code>
+  <code><img height="30" src="./src/bootstrap.svg" alt="Boostrap 5"></code>
   <code><img height="30" src="./src/mysql.png" alt="MySQL"></code>
   <code><img height="30" src="./src/postgre.svg" alt="PostgreSQL"></code>
-  <code><img height="30" src="./src/bootstrap.svg" alt="Boostrap 5"></code>
 </p>
